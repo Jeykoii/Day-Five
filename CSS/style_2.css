@@ -1,0 +1,54 @@
+.gentitle {
+    width: 13%;
+    height: 700px;
+    margin: 0;
+    padding-top: 30px;
+    float: left;
+
+    color: #FFF;
+    background-color: rgba(34, 107, 243, 0.767);
+
+    text-align: center;
+    font-size: 30px;
+    font-weight: 700;
+
+}
+.subtitle {
+    width: 87%;
+    margin-left: 200px;
+    margin-top: 20px;
+
+    font-weight: 700;
+    font-size: 25px;
+}
+.basic ,
+.contact {
+    margin-left: 200px;
+
+    margin-top: 10px;
+}
+.smalltitle {
+    margin-right: 20px;
+
+    font-size: 20px;
+    font-weight: 700;
+}
+.smalltitle + span {
+    margin-right: 60px;
+
+    font-size: 20px;
+}
+.ability , .experience , .project {
+    width: 100%;
+}
+.description {
+    font-weight: 600;
+    font-size: 20px;
+
+    margin-left: 200px;
+    padding-top: 10px;
+}
+.description + div {
+    margin-left: 200px;
+    font-size: 20px;
+}
